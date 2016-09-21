@@ -1,2 +1,5 @@
 # hello-world
-tutorial purpose
+
+hello, I just new here to look for some valuable things. 
+
+lol
